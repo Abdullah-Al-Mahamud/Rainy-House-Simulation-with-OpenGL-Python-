@@ -19,9 +19,6 @@ It displays a house under a rainy environment, where raindrops continuously fall
 - Python 3.x  
 - PyOpenGL  
 
-Install dependencies using:
-```bash
-pip install PyOpenGL PyOpenGL_accelerate
 
 ## 🎮 Controls
 
@@ -40,3 +37,7 @@ A house drawn with lines and points
 Continuous rainfall animation
 
 Interactive background and tilt control
+
+Install dependencies using:
+```bash
+" pip install PyOpenGL PyOpenGL_accelerate"
