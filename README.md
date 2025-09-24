@@ -23,7 +23,7 @@ Install dependencies using:
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate
 
-🎮 Controls
+## 🎮 Controls
 
 m → Morning mode
 
@@ -31,7 +31,7 @@ n → Night mode
 
 ← / → → Tilt house left or right
 
-📷 Preview
+## 📷 Preview
 
 This program opens an OpenGL window where you’ll see:
 
