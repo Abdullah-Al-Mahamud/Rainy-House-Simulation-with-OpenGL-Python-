@@ -38,6 +38,3 @@ Continuous rainfall animation
 
 Interactive background and tilt control
 
-Install dependencies using:
-```bash
-" pip install PyOpenGL PyOpenGL_accelerate"
